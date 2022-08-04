@@ -1,0 +1,38 @@
+version: '3'
+services:
+  
+  todotests:
+    image: todotests
+    build:
+      dockerfile: ./todo-app/tests/Dockerfile
+      context: .
+    depends_on:
+      - todoback
+      - todofront
+    environment:
+      - FRONT_HOST=todofront
+      - FRONT_PORT=3000
+  todofront:
+    image: todofront
+    build:
+      dockerfile: ./todo-app/front-end/Dockerfile
+      context: .
+    restart: always
+    depends_on:
+      - todoback
+    ports:
+      - 3000:3000
+    environment:
+      - REACT_APP_API_HOST=todoback
+      - REACT_APP_API_PORT=3001
+
+  todoback:
+    image: todoback
+    build: 
+      dockerfile: ./todo-app/back-end/Dockerfile
+      context: .
+    ports:
+      - 3001:3001
+  
+
+# https://docs.docker.com/compose/compose-file/build/
