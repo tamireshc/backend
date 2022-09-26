@@ -1,4 +1,4 @@
-# Portifólio BackEnd :cloud:
+# Portifólio BackEnd :open_file_folder:
 
 Este repositório foi utilizado para armazenar os projetos de backend desenvolvidos durante o curso da _[Trybe](https://www.betrybe.com/)_.
 Os códigos são autorais.<br>
