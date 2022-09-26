@@ -22,17 +22,14 @@ Os códigos são autorais.<br>
   Os dados foram incluídos e editados utilizando a funcionalidade do fs.<br>
   https://github.com/tamireshc/backend/tree/master/node-express-talker-manager<br>
     
-4. **Pixel-art** - Página que permite a criaçao de pixel art com cores aleátoria e a escolha do tamanho da grade de pixels:   
-   https://tamireshc.github.io/portfolio/pixel-art/<br>
+4. **Mysql One For All** - Projeto de modelzagem e criação de um banco de dados mysql.<br>
+  Neste projeto também foram reazlizados desafios de seleção, filtragem e manipulação de dados. <br>
+   https://github.com/tamireshc/backend/tree/master/mysql-one-for-all/<br>
    
-5. **Color Guest** - Jogo de advinhação de cores aleátorias RGB:<br>
-   https://tamireshc.github.io/portfolio/color-guest/<br>
+5. **MySQL All For one** - Desafios de seleção, filtragem e manipulação de dados.:<br>
+   https://github.com/tamireshc/backend/tree/master/mySQL-all-for-one<br>
    
-6. **Meme Generator** - Página que cria memes online com imagens pré-definidas ou escolhidas pelo usuário:
-   https://tamireshc.github.io/portfolio/meme-generator/<br>
+6. **Docker todo list** - Desafios de comandos em docker para a criação, manipulação de containers e composes.:
+   https://github.com/tamireshc/backend/tree/master/docker-todo-list<br>
    
-7. **Trybewarts** - Formulário Online desenvolvido em grupo. As informções enviadas podem ser visualizadas em formato de carta:<br>
-  https://tamireshc.github.io/portfolio/trybewarts/<br>
-  
-8. **Shopping Card** - Projeto final de Javascript - Desenvolvimento de uma página de e-commerce que busca dados na API do Mercado Livre. Os arquivos da pasta mocks foram fornecidos ao início do projeto, o restante é autoral:<br>
-   https://tamireshc.github.io/portfolio/shopping-cart/<br>
+
