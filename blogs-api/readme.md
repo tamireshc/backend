@@ -28,7 +28,7 @@
   7. Listar todas categorias(GET)
   https://blog-api-tamires.herokuapp.com/categories <br>
   8. Editar post 
-  https://blog-api-tamires.herokuapp.com/post/9 <br>
+  https://blog-api-tamires.herokuapp.com/post/id <br>
   9. Deletar usuário
   https://blog-api-tamires.herokuapp.com/me <br>
 
