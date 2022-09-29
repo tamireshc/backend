@@ -6,6 +6,8 @@
   :pushpin: As interações com o banco de dados mysql foram realizadas por meio do Sequelize.<br>
   :mag: Os arquivos foram organizados com a arquitetura MSC.<br>
   
+  **Deploy realizado utilizando Heroku** 
+  
   A aplicação está disponível em:
   https://blog-api-tamires.herokuapp.com
   
