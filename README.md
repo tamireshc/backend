@@ -27,15 +27,20 @@ Os códigos são autorais.<br>
   O banco de dados foi criado em um arquvo local com dados no formato de JSON.<br>
   Os dados foram incluídos e editados utilizando a funcionalidade do fs.<br>
   https://github.com/tamireshc/backend/tree/master/node-express-talker-manager<br>
+  
+ 5. **POO - trybers and dragons** - Projeto de modelagens de personagens e batalhas com POO.<br>
+  As tecnologias utilizadas foram: POO e Typescript:<br>
+  O projeto modelou classe de personagens, raças e aquetipos desenvolvendo um sistema de batalha entre eles por meio de POO com Typescript.<br>
+  https://github.com/tamireshc/backend/tree/master/POO-trybers-and-dragons<br>
     
-5. **Mysql One For All** - Projeto de modelzagem e criação de um banco de dados mysql.<br>
+6. **Mysql One For All** - Projeto de modelzagem e criação de um banco de dados mysql.<br>
   Neste projeto também foram reazlizados desafios de seleção, filtragem e manipulação de dados. <br>
   https://github.com/tamireshc/backend/tree/master/mysql-one-for-all/<br>
    
-6. **MySQL All For one** - Desafios de seleção, filtragem e manipulação de dados.:<br>
+7. **MySQL All For one** - Desafios de seleção, filtragem e manipulação de dados.:<br>
    https://github.com/tamireshc/backend/tree/master/mySQL-all-for-one<br>
    
-7. **Docker todo list** - Desafios de comandos em docker para a criação, manipulação de containers e composes.:
+8. **Docker todo list** - Desafios de comandos em docker para a criação, manipulação de containers e composes.:
    https://github.com/tamireshc/backend/tree/master/docker-todo-list<br>
    
 
