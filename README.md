@@ -7,8 +7,9 @@ Os códigos são autorais.<br>
   As tecnologias utilizadas foram:  mysql, mysql2, node, express, typescript, sequelize, mocha, chai, sinon, jwt e Joi:<br>
   As interações com o banco de dados mysql foram realizadas por meio do Sequelize.<br>
   Os arquivos foram organizados com a arquitetura MSC.<br>
-  Link do deploy via heroku do front-end fornecido pela trybe para implementar a API desenvolvida:  https://tfc-tamires-ft.vercel.app<br>
-  Arquivos do backend desenvolvido:
+  -Link do deploy via vercel do front-end fornecido pela Trybe para implementar a API desenvolvida:<br>
+  https://tfc-tamires-ft.vercel.app<br>
+  -Arquivos e mais detalhes do backend desenvolvido:(O banco de dados também foi implementado via heroku)<br>
   https://github.com/tamireshc/backend/tree/master/trybe-futebol-clube-backend <br>
 
 2. **Trybesmith** - Projeto de uma API REST para uma loja de produtos medievais. <br>
