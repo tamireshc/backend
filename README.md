@@ -20,7 +20,7 @@ Os códigos são autorais.<br>
  
  :star: 3. **ShopCar** - Projeto de uma API REST para uma loja de veículos automotivos. <br>
   As tecnologias utilizadas foram:  mongoDB, node, express, typescript, mocha, chai e sinon:<br>
-  As interações com o banco de dados mongoDB foram realizadas por meio da mongoose.<br>
+  As interações com o banco de dados mongoDB foram realizadas por meio do mongoose.<br>
   Os arquivos foram organizados com a arquitetura MSC.<br>
  https://github.com/tamireshc/backend/tree/master/POO-project-car-shop <br>
 
